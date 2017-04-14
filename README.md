@@ -1,2 +1,6 @@
 # hello-world
-New Hello Worl project
+New Hello World project
+
+Hello everyone.
+
+I'm not dead yet!!!
